@@ -8,3 +8,9 @@ Con tu App podremos:
 * Poder ver todos los detalles de una película en particular.
 * Poder agregar las películas a tu lista de favoritos.
 * Poder sacar películas de tu lista de favoritos.
+
+<p>
+  <a><img width='40%' height='20%' src="https://github.com/avancini16/MoviesApp/blob/main/images/MoviesApp 1.png"></a>
+  <a><img width='40%' height='20%' src="https://github.com/avancini16/MoviesApp/blob/main/images/MoviesApp 2.png"></a>
+  <a><img width='40%' height='20%' src="https://github.com/avancini16/MoviesApp/blob/main/images/MoviesApp 3.png"></a>
+</p>

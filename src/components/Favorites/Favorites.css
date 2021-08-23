@@ -1,0 +1,21 @@
+.movie-container{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.movies-title{
+    width: 200px;
+    font-family: 'Poppins', sans-serif;
+}
+.link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.x-button{
+    width: 100px;
+    height: 30px;
+}
+.x-div{
+    text-align: center;
+}

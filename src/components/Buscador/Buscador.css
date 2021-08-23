@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.container-search{
+    margin-left: 30px;
+}
+.cnt {
+    padding-top: 10px;
+}
+.form-container {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.form-container button {
+    margin-left: 20px;
+}
+.label {
+    padding-right: 10px;
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+}
+button{
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+    background-color: black;
+    border-radius: 5px;
+    border: 0;
+}
+
+button:hover{
+    background-color: red;
+}
+
+h2{
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+}
+
+.movies-container{
+    background-color: blue;
+    width: 600px;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background: #141414;
+    box-shadow: rgb(0 0 0 / 75%) 0px 3px 10px;
+}
+.movies-container:hover{
+    transform: scale(1.1);
+}
+
+/* .img-container{
+    background-color: chartreuse;
+} */
+.image{
+    width: 140px;
+    height: 210px;
+}
+.movie-title{
+    width: 400px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.link{
+    color: whitesmoke;
+
+    text-decoration: none;
+}
+.fav-button{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 5px;
+}

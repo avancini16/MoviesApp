@@ -1,0 +1,26 @@
+.container {
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+  width: 1000px;
+  height: 650px;
+  background: #141414;
+  box-shadow: rgb(0 0 0 / 75%) 0px 3px 10px;
+  border-radius: 10px;
+}
+.images{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  margin-top: 80px;
+  margin-left: 50px;
+}
+.detail {
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  top: 10%;
+  left: 60%;
+  color: whitesmoke;
+}
